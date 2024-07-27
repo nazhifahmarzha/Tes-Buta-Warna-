@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+streamlit-option-menu==0.3.13
+scikit-learn==1.5.1
+
+
+
