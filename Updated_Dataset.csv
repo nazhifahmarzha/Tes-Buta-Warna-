@@ -1,0 +1,116 @@
+Nama,Jenis Kelamin,Plate 1,Plate 2,Plate 3,Plate 4,Plate 5,Plate 6,Plate 7,Plate 8,Plate 9,Plate 10,Plate 11,Plate 12,Plate 13,Plate 14,Plate 15,Plate 16,Plate 17,Plate 18,Plate 19,Plate 20,Plate 21,Plate 22,Plate 23,Plate 24,Diagnosa
+Arya,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Normal
+Ahmad Fauzi,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Normal
+Trisnia Adi,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Normal
+Rizky,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,Normal
+Mawar,Perempuan,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,Normal
+Iqbal,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,Normal
+Ale,Laki-Laki,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,Parsial
+Gina,Perempuan,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,Parsial
+Petrus,Laki-Laki,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,Parsial
+Kemal,Laki-Laki,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,Parsial
+Fauzi,Laki-Laki,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Parsial
+Ali,Laki-Laki,1,1,1,0,1,0,1,1,1,1,1,0,0,0,1,1,1,1,0,0,1,1,1,1,Parsial
+rio,Laki-Laki,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Parsial
+raka,laki-laki,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Parsial
+Agus,Laki-Laki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Total
+dr. Yuni Sihombing,Perempuan,0,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,1,1,0,0,Parcial
+Drs. Yosef Simbolon,Laki-Laki,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,1,1,Normal
+Najib Winarsih,Laki-Laki,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,1,0,0,1,Parcial
+Maya Hutagalung,Perempuan,1,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1,1,1,0,0,Normal
+Daru Habibi,Laki-Laki,0,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,0,1,1,Normal
+Tirtayasa Hutasoit,Laki-Laki,1,1,0,0,0,1,0,1,0,1,1,0,1,0,0,1,0,1,1,1,0,1,1,0,Normal
+Ella Mansur,Perempuan,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0,0,Normal
+Tgk. Siti Kurniawan,Perempuan,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,Parcial
+Umi Laksita,Laki-Laki,1,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,Parcial
+Wulan Wibowo,Perempuan,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1,Parcial
+Usman Irawan,Perempuan,1,0,1,1,0,1,0,0,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,Normal
+"Bagus Handayani, S.H.",Perempuan,1,0,0,1,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,1,0,0,1,Parcial
+"Rahayu Pudjiastuti, M.Ak",Perempuan,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,1,Parcial
+Hardana Narpati,Laki-Laki,1,0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0,0,1,1,0,1,1,Parcial
+"R. Jelita Wulandari, S.Psi",Perempuan,1,0,1,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,Parcial
+Rosman Adriansyah,Laki-Laki,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,1,0,1,1,1,Parcial
+Harsanto Najmudin,Laki-Laki,1,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,1,0,1,0,0,Parcial
+R. Titin Narpati,Perempuan,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,Normal
+Carla Pratama,Laki-Laki,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,Parcial
+Sari Yulianti,Perempuan,0,0,0,1,1,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Parcial
+"Dariati Maryati, S.Kom",Laki-Laki,0,1,0,0,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,1,0,0,Normal
+Ade Puspasari,Perempuan,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0,1,0,1,1,0,0,0,1,Parcial
+Dt. Gilang Manullang,Laki-Laki,1,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,1,Normal
+"Dr. Laras Pratama, S.IP",Perempuan,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,1,0,Parcial
+Oni Usamah,Laki-Laki,1,0,1,0,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,1,1,0,Parcial
+"Puti Yani Nainggolan, M.Pd",Laki-Laki,0,1,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,Normal
+"H. Radika Pranowo, S.Pt",Laki-Laki,0,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,0,1,0,1,1,Parcial
+Hasan Zulaika,Perempuan,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,Parcial
+"Puti Uli Mardhiyah, M.TI.",Perempuan,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0,Parcial
+"Dt. Darijan Rahayu, S.E.",Perempuan,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Parcial
+Timbul Maheswara,Perempuan,1,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,Parcial
+Hafshah Wacana,Perempuan,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,Normal
+Zelaya Maulana,Laki-Laki,0,0,1,0,1,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,Parcial
+Ajiman Dabukke,Perempuan,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,1,1,1,Normal
+Drs. Putu Wacana,Laki-Laki,0,1,1,1,0,1,0,1,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0,Normal
+Almira Nurdiyanti,Laki-Laki,0,0,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,0,0,1,1,0,Parcial
+"Drs. Devi Yuliarti, M.M.",Laki-Laki,1,1,0,1,1,0,1,1,1,0,1,1,0,0,0,1,1,1,1,0,0,0,1,0,Normal
+Kunthara Maryadi,Perempuan,0,1,0,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,1,Parcial
+Ilyas Gunarto,Laki-Laki,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,1,0,Normal
+"Eli Firmansyah, M.TI.",Laki-Laki,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,1,Parcial
+Dodo Mandasari,Perempuan,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,Parcial
+Zahra Oktaviani,Perempuan,1,1,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,Parcial
+"Kunthara Rajasa, M.Ak",Laki-Laki,0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,1,Parcial
+"Drs. Catur Hartati, M.M.",Perempuan,1,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,0,Normal
+"Lili Wastuti, M.Pd",Laki-Laki,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,1,Parcial
+"R.M. Harto Lestari, S.Sos",Perempuan,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,0,1,0,0,Parcial
+"Drs. Salman Mangunsong, M.Kom.",Perempuan,1,1,0,1,1,0,1,0,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,0,Parcial
+T. Harja Latupono,Perempuan,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,1,0,1,1,0,1,0,1,1,Normal
+Dt. Ajimat Wacana,Laki-Laki,0,0,1,0,0,1,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,Parcial
+Pia Nasyidah,Laki-Laki,0,1,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,Parcial
+Tgk. Calista Wahyuni,Perempuan,1,0,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1,Normal
+Kezia Purnawati,Laki-Laki,1,1,1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,1,1,1,Normal
+Umi Suwarno,Perempuan,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1,Normal
+Hadi Utami,Laki-Laki,0,1,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0,1,0,0,Normal
+Salwa Utama,Laki-Laki,1,1,1,0,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,Parcial
+"R.M. Margana Dongoran, S.E.",Laki-Laki,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,Normal
+"Hasta Usada, S.Kom",Perempuan,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,0,Parcial
+Narji Tamba,Laki-Laki,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0,Normal
+Galuh Waluyo,Laki-Laki,1,1,0,1,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,1,0,0,1,1,Normal
+Sari Padmasari,Laki-Laki,1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,1,1,0,1,1,1,Parcial
+"Dr. Puti Hasanah, M.M.",Laki-Laki,1,1,1,1,1,0,0,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,1,1,Parcial
+"Ian Anggraini, S.Psi",Laki-Laki,0,0,0,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,1,1,0,0,0,0,Parcial
+Talia Puspita,Laki-Laki,0,0,0,0,0,0,1,0,1,1,0,0,1,1,1,1,1,1,0,0,1,0,1,0,Parcial
+"Tgk. Dian Utama, M.Farm",Laki-Laki,0,0,1,0,1,0,1,1,0,0,1,0,1,1,1,0,1,1,0,1,1,1,0,0,Normal
+Humaira Pratama,Laki-Laki,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,Normal
+"Harjasa Uwais, S.Ked",Laki-Laki,0,0,1,0,1,0,0,1,1,0,1,1,0,1,1,0,1,1,1,0,0,0,1,0,Normal
+Dr. Jelita Pranowo,Perempuan,1,0,1,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,1,Normal
+R. Jagapati Prakasa,Perempuan,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,Normal
+Rachel Putra,Perempuan,1,1,1,1,1,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,1,1,1,1,Parcial
+"Unjani Kuswoyo, M.Pd",Laki-Laki,1,1,1,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,1,Parcial
+Jagapati Nurdiyanti,Perempuan,1,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,1,Normal
+"Ella Sihombing, S.T.",Perempuan,0,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,0,0,1,1,1,0,0,1,Normal
+Dt. Prayogo Hakim,Perempuan,0,1,1,1,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,Normal
+Yunita Najmudin,Perempuan,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,Normal
+"Hj. Safina Kusmawati, M.Ak",Perempuan,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,Parcial
+Nadine Mustofa,Laki-Laki,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,Normal
+"Ir. Kuncara Jailani, S.Pt",Laki-Laki,1,1,0,0,0,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1,0,1,0,1,Normal
+"Mutia Rahimah, M.Kom.",Perempuan,0,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,Parcial
+Zalindra Waskita,Perempuan,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,1,Normal
+Shania Novitasari,Perempuan,0,1,1,1,0,1,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,Normal
+Ir. Ayu Puspasari,Laki-Laki,1,1,0,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,1,Normal
+Nardi Wahyudin,Perempuan,1,1,0,0,1,1,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,0,1,1,Parcial
+"Lega Putra, S.Ked",Perempuan,1,0,0,1,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0,1,1,0,1,Normal
+Lidya Maheswara,Perempuan,0,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,1,Normal
+Cut Jasmin Hidayat,Perempuan,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,Normal
+Gandewa Pranowo,Laki-Laki,0,1,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,0,1,1,Parcial
+Rangga Wahyudin,Perempuan,1,0,0,1,0,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,1,0,1,Parcial
+Rafi Fujiati,Perempuan,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,0,Normal
+Dinda Mulyani,Laki-Laki,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1,Normal
+Fitriani Maryadi,Laki-Laki,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,1,1,0,1,0,Normal
+Bakti Halim,Perempuan,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,Normal
+"Tgk. Nugraha Utami, M.M.",Laki-Laki,1,0,0,0,0,1,0,1,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,Parcial
+Jaiman Winarsih,Laki-Laki,0,1,1,1,0,1,1,0,1,1,0,0,1,1,0,0,1,1,0,1,0,0,1,1,Normal
+"Asirwada Riyanti, M.Pd",Perempuan,0,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,1,Normal
+R. Lutfan Maheswara,Laki-Laki,1,1,0,0,1,0,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,1,0,Normal
+Salwa Waskita,Perempuan,1,1,1,0,0,0,1,1,0,1,1,0,1,0,1,1,0,1,0,1,0,1,1,0,Normal
+Malika Mangunsong,Perempuan,1,0,0,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,Normal
+"Ir. Tirtayasa Puspita, S.I.Kom",Laki-Laki,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,Parcial
+Silvia Sihombing,Perempuan,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,1,Normal
+Nabila Handayani,Perempuan,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,1,0,1,1,1,1,1,0,1,Normal
